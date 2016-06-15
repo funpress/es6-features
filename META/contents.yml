@@ -14,11 +14,11 @@
 - title: Destructuring
   path:  05__Destructuring.md
 - title: Default + Rest + Spread
-  path:  06__Default_+_Rest_+_Spread.md
+  path:  06__Default__Rest__Spread.md
 - title: Let + Const
-  path:  07__Let_+_Const.md
+  path:  07__Let__Const.md
 - title: Iterators + For..Of
-  path:  08__Iterators_+_For..Of.md
+  path:  08__Iterators__For..Of.md
 - title: Generators
   path:  09__Generators.md
 - title: Unicode
@@ -28,7 +28,7 @@
 - title: Module Loaders
   path:  12__Module_Loaders.md
 - title: Map + Set + WeakMap + WeakSet
-  path:  13__Map_+_Set_+_WeakMap_+_WeakSet.md
+  path:  13__Map__Set__WeakMap__WeakSet.md
 - title: Proxies
   path:  14__Proxies.md
 - title: Symbols
@@ -38,7 +38,7 @@
 - title: Promises
   path:  17__Promises.md
 - title: Math + Number + String + Array + Object APIs
-  path:  18__Math_+_Number_+_String_+_Array_+_Object_APIs.md
+  path:  18__Math__Number__String__Array__Object_APIs.md
 - title: Binary and Octal Literals
   path:  19__Binary_and_Octal_Literals.md
 - title: Reflect API
